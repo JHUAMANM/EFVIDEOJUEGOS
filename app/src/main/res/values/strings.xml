@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APPFINAL</string>
+    <string name="title_activity_ubicacion_maps">UbicacionMapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
